@@ -1,0 +1,89 @@
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-style: normal;
+  src: url(/fonts/Raleway/Raleway-Bold.eot); /* IE9 Compat Modes */
+  src: local('Raleway Bold'), local('Raleway-Bold'),
+    url(/fonts/Raleway/Raleway-Bold.eot) format('embedded-opentype'), 
+    url(/fonts/Raleway/Raleway-Bold.woff) format('woff'),
+    url(/fonts/Raleway/Raleway-Bold.ttf) format('truetype'),
+    url(/fonts/Raleway/Raleway-Bold.svg#Raleway-Bold) format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: normal;
+  font-style: normal;
+  src: url(/fonts/Raleway/Raleway-Regular.eot); /* IE9 Compat Modes */
+  src: local('Raleway Regular'), local('Raleway-Regular'),
+    url(/fonts/Raleway/Raleway-Regular.eot) format('embedded-opentype'), 
+    url(/fonts/Raleway/Raleway-Regular.woff) format('woff'),
+    url(/fonts/Raleway/Raleway-Regular.ttf) format('truetype'),
+    url(/fonts/Raleway/Raleway-Regular.svg#Raleway-Regular) format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-style: normal;
+  src: url(/fonts/Roboto/Roboto-Regular.eot); /* IE9 Compat Modes */
+  src: local('Roboto Regular'), local('Roboto-Regular'),
+    url(/fonts/Roboto/Roboto-Regular.eot) format('embedded-opentype'), 
+    url(/fonts/Roboto/Roboto-Regular.woff) format('woff'),
+    url(/fonts/Roboto/Roboto-Regular.ttf) format('truetype'),
+    url(/fonts/Roboto/Roboto-Regular.svg#Roboto-Regular) format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: normal;
+  src: url(/fonts/Roboto/Roboto-Medium.eot); /* IE9 Compat Modes */
+  src: local('Roboto Medium'), local('Roboto-Medium'),
+    url(/fonts/Roboto/Roboto-Medium.eot) format('embedded-opentype'), 
+    url(/fonts/Roboto/Roboto-Medium.woff) format('woff'),
+    url(/fonts/Roboto/Roboto-Medium.ttf) format('truetype'),
+    url(/fonts/Roboto/Roboto-Medium.svg#Roboto-Medium) format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-style: normal;
+  src: url(/fonts/Roboto/Roboto-Bold.eot); /* IE9 Compat Modes */
+  src: local('Roboto Bold'), local('Roboto-Bold'),
+    url(/fonts/Roboto/Roboto-Bold.eot) format('embedded-opentype'), 
+    url(/fonts/Roboto/Roboto-Bold.woff) format('woff'),
+    url(/fonts/Roboto/Roboto-Bold.ttf) format('truetype'),
+    url(/fonts/Roboto/Roboto-Bold.svg#Roboto-Bold) format('svg');
+}
+
+
+
+
+<div class="container-fluid csa2">
+	<div class="notall"><div class="not">My Working Process</div><br>
+		<div class="not1">Hi, i’m Paul Lapkin, Experience Crafter from Canada.</div></div>
+
+	<div class="row ad">
+		
+	<div class="col "><a href="#"><img src="3-layers.png" width="80%"></a></div>
+	<div class="col "><a href="#"><img src="1.png" width="80%"></a></div>
+	<div class="col "><a href="#"><img src="2.png" width="80%"></a></div>
+	<div class="col "><a href="#"><img src="3.png" width="80%"></a></div>
+
+</div>
+</div>
+
+
+<div class="container-fluid csa3">
+	<div class="row">
+		<div class="col-sm-4 lol">
+		
+		</div>
+		<div class="col-md-4 kek">
+			
+		</div>
+	</div>
+</div>

@@ -1,0 +1,225 @@
+
+
+.nav1{
+	height: 50px;
+	background-color: black;
+	opacity: 0.9;
+	color: white;
+	position: sticky;
+}
+
+.cont1 {
+height: 1022px;
+background: rgb(0,0,0);
+background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(27,27,27,1) 35%, rgba(56,56,56,1) 100%);
+}
+
+
+.hr {
+margin-top: 293px;
+width: 552px;
+height: 3px;
+background-color: #ffffff;
+opacity: 0.5;
+}
+.hr1 {
+	width: 552px;
+height: 3px;
+background-color: #ffffff;
+opacity: 0.5;
+}
+
+.fsp{
+text-align:center; 
+color: #ffffff;
+font-family:"Raleway";
+font-size: 65px;
+font-weight: 600;
+line-height: 85.01px;
+text-transform: uppercase;
+letter-spacing: 14.3px;
+}
+
+.fps1 {
+text-align: center;
+height: 25px;
+opacity: 0.7;
+color: #ffffff;
+font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 85.01px;
+letter-spacing: 0.88px;
+}
+
+.cont2{
+
+
+height: 702px;
+background-color: #2e2e2e;
+
+}
+
+
+.cont3{
+
+height: 702px;
+background-color: #222222;
+
+}
+
+.clock{
+
+	height: 583px;
+	width: 431px;
+	margin-top: 119px;
+}
+.im{
+width: 431px;
+height: 583px;
+}
+
+.textall{
+	padding-left: 40px;
+	margin-top: 172px;
+}
+
+
+
+
+.text1{
+
+margin-top: 41px;
+width: 540px;
+opacity: 0.7;
+color: white;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.01px;
+letter-spacing: 0.16px;
+}
+.text{
+opacity: 0.7;
+color: white;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 28.01px;
+letter-spacing: 0.18px;
+}
+
+.text2{
+	margin-top: 67px;
+}
+
+
+.cont4{
+height: 703px;
+background-color: #64cbc0;
+}
+
+
+.grow{
+	margin-top: 139px;
+width: 58px;
+height: 47px; 
+}
+
+
+.textc3{
+	margin-top: 50px;
+	font-family: Roboto;
+	font-size: 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.notall{
+	position: sticky;
+	padding-top: 123px;
+	text-align: center;
+	padding-bottom: 61px;
+}
+
+.not{
+height: 40px;
+color: #000000;
+font-family: Raleway;
+font-size: 40px;
+font-weight: 700;
+line-height: 28.01px;
+letter-spacing: 0.4px;
+}
+
+.not1{
+height: 17px;
+opacity: 0.7;
+color: #000000;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 28.01px;
+letter-spacing: 0.16px;
+}
+
+.ad{
+	margin-left: 10px;
+}
+
+
+
+.csa3{
+height: 793px;
+background-image: linear-gradient(60deg, rgba(255, 43, 74, 0.53) 0%, rgba(0, 36, 83, 0.53) 50%, rgba(255, 43, 74, 0.53) 100%);
+opacity: 0.9;
+}
+
+.lol {
+
+width: 578px;
+height: 545px;
+background-color: #ffffff;
+background-image: linear-gradient(45deg, rgba(93, 35, 96, 0.79) 0%, rgba(158, 53, 105, 0.79) 50%, rgba(93, 35, 96, 0.79) 100%);
+opacity: 0.3;
+
+}
+
+
+.kek{
+position: auto;
+width: 578px;
+height: 545px;
+background-color: #ffffff;
+background-image: linear-gradient(45deg, rgba(93, 35, 96, 0.79) 0%, rgba(158, 53, 105, 0.79) 50%, rgba(93, 35, 96, 0.79) 100%);
+opacity: 0.3;
+}
